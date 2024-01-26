@@ -6,7 +6,7 @@ var name = "Marcin";
 var sex = "Male";
 var age = 46;
 
-if (sex == "Female" &&  age < 18)
+if (sex == "Female" &&  age < 30)
 {
     Console.WriteLine("Kobieta poniżej 30 lat"); 
 }
