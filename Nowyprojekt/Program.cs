@@ -20,5 +20,5 @@ else if (sex == "Male" && age < 18)
 }
 else
 { 
-    Console.WriteLine();
+    Console.WriteLine("NIC");
 }
