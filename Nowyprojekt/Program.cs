@@ -59,7 +59,7 @@ else if (letter == '9')
 Console.WriteLine("W liczbie:" + number);
 for (int i = 0; i < counters.Length; i++)
 {
-    Console.WriteLine("cyfra " + i + " wystepuje " + counters[i] + " razy ");
+    Console.WriteLine("Cyfra " + i + " wystepuje " + counters[i] + " razy ");
 }
 
 
